@@ -2,6 +2,8 @@
 
 ## Student Details
 
+- **Full Name:** `Han Zheng`
+- **CCID:** `hzheng14`
 - **Full Name:** `Jerry Jin Ma`
 - **CCID:** `jjma4`
 - **Full Name:** `e`
